@@ -1,0 +1,14 @@
+﻿生成启动时间为 2017/8/13 13:16:18。
+     1>项目“E:\Sourcecode\C\字符串替换\字符串替换\字符串替换.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\vs2013\software\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "源.cpp"
+         源.cpp
+     1>e:\sourcecode\c\字符串替换\字符串替换\源.cpp(9): error C2561: “ReplaceBlank”: 函数必须返回值
+                 e:\sourcecode\c\字符串替换\字符串替换\源.cpp(6) : 参见“ReplaceBlank”的声明
+     1>e:\sourcecode\c\字符串替换\字符串替换\源.cpp(21): error C2561: “ReplaceBlank”: 函数必须返回值
+                 e:\sourcecode\c\字符串替换\字符串替换\源.cpp(6) : 参见“ReplaceBlank”的声明
+     1>已完成生成项目“E:\Sourcecode\C\字符串替换\字符串替换\字符串替换.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.26

@@ -1,0 +1,15 @@
+﻿生成启动时间为 2017/8/23 14:00:23。
+     1>项目“E:\Sourcecode\C\圆圈中最后剩下的数字\圆圈中最后剩下的数字\圆圈中最后剩下的数字.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\vs2013\software\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "源.cpp"
+         源.cpp
+     1>e:\sourcecode\c\圆圈中最后剩下的数字\圆圈中最后剩下的数字\源.cpp(24): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\sourcecode\c\圆圈中最后剩下的数字\圆圈中最后剩下的数字\源.cpp(50): warning C4018: “<=”: 有符号/无符号不匹配
+       Link:
+         E:\vs2013\software\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Sourcecode\C\圆圈中最后剩下的数字\Debug\圆圈中最后剩下的数字.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\Sourcecode\C\圆圈中最后剩下的数字\Debug\圆圈中最后剩下的数字.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Sourcecode\C\圆圈中最后剩下的数字\Debug\圆圈中最后剩下的数字.lib" /MACHINE:X86 "Debug\源.obj"
+         圆圈中最后剩下的数字.vcxproj -> E:\Sourcecode\C\圆圈中最后剩下的数字\Debug\圆圈中最后剩下的数字.exe
+     1>已完成生成项目“E:\Sourcecode\C\圆圈中最后剩下的数字\圆圈中最后剩下的数字\圆圈中最后剩下的数字.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.43
